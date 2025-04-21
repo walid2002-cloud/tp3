@@ -1,4 +1,4 @@
-<h2>Spring MVC avec Thymeleaf</h2>
-<img src="src/main/resources/structure3.png">
-<img src="src/main/resources/Screenshotapp.png">
-<img src="src/main/resources/Terminal3.png">
+<H2>JPA application</H2>
+<img src="pics/1.png" />
+<img src="pics/2.png" />
+<img src="pics/3.png" />
